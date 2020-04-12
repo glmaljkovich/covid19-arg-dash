@@ -1,5 +1,7 @@
 # COVID19-arg-dash
-Un tablero de prueba que consume [Argentina Covid-19 API](https://apibueno.herokuapp.com). Hecho con VueJS
+>Un tablero de prueba que consume [Argentina Covid-19 API](https://apibueno.herokuapp.com). Hecho con VueJS
+
+Disponible [en este sitio](https://covid19-arg-dashboard.netlify.com/)
 ## Project setup
 ```
 npm install
